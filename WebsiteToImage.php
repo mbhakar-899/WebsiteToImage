@@ -4,7 +4,7 @@ class WebsiteToImage
 {
     const FORMAT_JPG  = 'jpg';
     const FORMAT_JPEG = 'jpeg';
-    const FORMAT_PNG  = 'png';
+    const FORMAT_PNG  = 'png'; hell
     const FORMAT_TIF  = 'tif';
     const FORMAT_TIFF = 'tiff';
 
